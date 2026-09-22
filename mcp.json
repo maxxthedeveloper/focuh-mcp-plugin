@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "focuh": {
+      "url": "https://www.focuh.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${FOCUH_API_KEY}"
+      }
+    }
+  }
+}

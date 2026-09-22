@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "focuh",
+  "description": "ADHD system of record for coding agents: tasks, loops, calendar, goals, and focus stats via Focuh remote MCP.",
+  "version": "1.0.0",
+  "author": { "name": "Max Potze", "url": "https://www.focuh.com" },
+  "homepage": "https://www.focuh.com/mcp",
+  "keywords": ["mcp", "adhd", "todo", "focus", "productivity", "cursor"]
+}
